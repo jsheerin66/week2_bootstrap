@@ -1,0 +1,38 @@
+
+#nameHeader {
+	height: 80px;
+  background: #4aaaa5;
+	color: #ffffff;
+  margin: 30px 0 0 55px ;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#topNavigation {
+	background: #666666;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  float: left;
+}
+
+#aboutMe {
+	height: 200px;
+	background: #666666;
+}
+
+#pageLinks {
+	height:200px;
+	background: #555555;
+}
+
+#footer {
+	height:200px;
+	background: #666666;
+}

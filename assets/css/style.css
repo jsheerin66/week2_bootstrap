@@ -1,0 +1,25 @@
+
+#nameHeader {
+	height: 200px;
+	background: #555555;
+}
+
+#nav {
+	height: 200px;
+	background: #666666;
+}
+
+#aboutMe {
+	height: 200px;
+	background: #666666;
+}
+
+#pageLinks {
+	height:200px;
+	background: #555555;
+}
+
+#footer {
+	height:200px;
+	background: #666666;
+}
